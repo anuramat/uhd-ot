@@ -85,3 +85,7 @@ r = \begin{pmatrix}
 \end{pmatrix}
 \quad \forall \alpha \in [0,1]
 $$
+
+## 1.4
+
+TODO: the result should be softmin, cf "ml in physics"
